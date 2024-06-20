@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+.project{
+   text-align: center;
+}
+.head h3{
+    color: #158bde;
+    font-size: 45px;
+    background-image: url('C:/Users/USER/EasyCrets/src/assets/Easy crets images/2.png');
+    background-size: cover;
+    width: 100%;
+    height: 380px;
+}
+.cont p{
+    margin: 20px 120px 0px 120px;
+    font-size: 16px;
+}
+.cont span{
+    color: #158bde;
+    font-size: 18px;
+    font-weight: 700;
+}

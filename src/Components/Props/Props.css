@@ -1,0 +1,73 @@
+.slider-container{
+    margin-top: auto;
+    width:80%;
+    margin: 0 140px 40px 140px;
+    background-color: white;
+}
+.slide{
+margin-top: 20px;
+}
+.props{
+    height: 380px;
+    padding: 2px;
+    border-radius: 20px;
+    background-color: #158bde;
+
+}
+.props2{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.props2 h3,h4{
+    color: white;
+    margin-top: 10px;
+}
+.props2 h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+.props1{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.props1 img{
+    width: 300px;
+    height: 180px;
+    border-radius: 25px;
+}
+.props2 h5{
+    color: rgb(10, 248, 10);
+    font-weight: 800;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.props2 p{
+    color: black;
+    font-size: 16px;
+}
+.props2 button{
+    color: #158bde;
+    background-color: white;
+    margin-top: 12px;
+    padding: 8px;
+    border-radius: 20px;
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+}
+.props2 button:hover{
+    color:white;
+    background-color: #158bde;
+    border-color: white;
+    font-size: 16px;
+}
+.slick-slide > div{
+    margin:0 20px;
+}

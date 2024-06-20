@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Tenants{
+    text-align: center;
+}
+.Tenants h3{
+    font-size: 45px;
+    color: #158bde;
+    background-image: url('C:/Users/USER/EasyCrets/src/assets/Easy crets images/8.png');
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+.Tenants p{
+    margin: 20px 120px 10px 120px;
+    font-size: 16px;
+}
+.Tenants h4{
+    font-size: 25px;
+    color: #158bde;
+}

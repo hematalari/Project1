@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Footer{
+    height: 250px;
+    width: 100%;
+    background-color: #158bde;
+    margin-top: 20px;
+    display:flex;
+    align-items: start;
+    justify-content: space-evenly;
+    gap: 30px;
+}
+.Footer h3{
+    margin-top: 30px;
+    color: white;
+    font-size: 18px;
+}
+.Aboutus{
+    margin-left: 40px;
+}
+.menus a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+.menus li{
+    list-style: none;
+    margin-top: 5px;
+}
+.menus a:hover{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.Ourprojects li{
+    list-style: none;
+    margin-top: 5px;
+    color: white;
+}
+.Ourprojects li:hover{
+    font-size: 18px;
+}
+.Easycrets{
+    width: 200px;
+}
+.Easycrets p{
+    margin-top: 10px;
+    text-align: left;
+    color: white;
+}
+.reachus h4{
+    color: white;
+}
+.reachus p{
+    text-align: left;
+    color: white;
+}

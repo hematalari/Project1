@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Contactus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Contactus h3{
+    text-align: center;
+    font-size: 55px;
+    color:#158bde;
+    background-image: url('C:/Users/USER/EasyCrets/src/assets/Easy crets images/7.png');
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 40px 30px 40px 80px;
+    gap:40px;
+}
+input{
+    width: 500px;
+    height: 35px;
+    margin: 8px 0 20px 0;
+}
+button{
+    width: 200px;
+    height: 30px;
+    background-color: #158bde;
+    color: white;
+    border-radius: 20px;
+}
+.form label{
+    color: #158bde;
+}
