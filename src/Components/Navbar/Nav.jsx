@@ -8,22 +8,22 @@ const Nav = () => {
             <img src={logo} alt="" />
             <ul className='list'>
                 <li className="nav-item">
-                    <Link to = '/Home'>Home</Link>
+                    <Link to = '/Project_1'>Home</Link>
                 </li>
                 <li className="nav-item">
-                    <Link to = '/Openhouses'>Openhouses</Link>
+                    <Link to = '/Project_1/Openhouses'>Openhouses</Link>
                 </li>
                 <li className="nav-item">
-                <Link to = '/Projects'>Projects</Link>
+                <Link to = '/Project_1/Projects'>Projects</Link>
                 </li>
                 <li className="nav-item">
-                <Link to = '/Pmang'>Property Management</Link>
+                <Link to = '/Project_1/Pmang'>Property Management</Link>
                 </li>
                 <li className="nav-item">
-                <Link to = '/Tenants'>Tenants</Link>
+                <Link to = '/Project_1/Tenants'>Tenants</Link>
                 </li>
                 <li className="nav-item">
-                <Link to = '/ContactUs'>ContactUs</Link>
+                <Link to = '/Project_1/ContactUs'>ContactUs</Link>
                 </li>
             </ul>
     </nav>

@@ -16,35 +16,35 @@ import Bhk from './Pages/Bhk.jsx'
 
 const router = createBrowserRouter([
   {
-    path: "Home",
+    path: "/Project_1",
     element: <App />,
   },
   {
-    path: "/",
+    path: "/Project_1",
     element: <App />,
   },
   {
-    path: "Openhouses",
+    path: "/Project_1/Openhouses",
     element: <Openhouses />,
   },
   {
-    path: "Projects",
+    path: "/Project_1/Projects",
     element: <Project />,
   },
   {
-    path: "Pmang",
+    path: "/Project_1/Pmang",
     element: <Pmang />,
   },
   {
-    path: "Tenants",
+    path: "/Project_1/Tenants",
     element: <Tenants />,
   },
   {
-    path: "ContactUs",
+    path: "/Project_1/ContactUs",
     element: <ContactUs />,
   },
   {
-    path: "Bhk",
+    path: "/Project_1/Bhk",
     element: <Bhk />,
   },
 ]);
