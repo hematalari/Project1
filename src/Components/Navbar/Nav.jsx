@@ -1,6 +1,6 @@
 import "./Nav.css";
 import React from 'react';
-import logo from "../../assets/Easy crets images/logo.png";
+import logo from "../../images/logo.png";
 import {Link} from 'react-router-dom';
 const Nav = () => {
   return (
