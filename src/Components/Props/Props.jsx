@@ -32,7 +32,7 @@ const Props = ({data})=> {
   const navigate = useNavigate()
 
   const gotToNewPage=()=>{
-    navigate("/ContactUs");
+    navigate("/Project1/ContactUs");
   }
   const settings = {
     dots: true,
