@@ -52,11 +52,12 @@ const Footer = () => {
       <div className="reachus">
         <h3>Reach us</h3>
         <h4>Location</h4>
-        <p>292 - 294, Plashet Grove, London. E6 1DQ </p>
+        <p>Office No: 8, 292 - 294, Plashet Grove,
+        London. E6 1DQ. </p>
         <br></br>
-        <p>Email: info@ukbuilds.com</p>
+        <p>Email: contact@rkhpservices.co.uk</p>
         <br></br>
-        <p> Phone: +44 7412 671188</p>
+        <p> Phone: +44 80 028 84785</p>
       </div>
     </div>
     <Footer1 />

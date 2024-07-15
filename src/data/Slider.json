@@ -1,9 +1,9 @@
 {
   "slider": [
-    { "src": "/Project_1/src/images/3.png", "alt": "image1" },
-    { "src": "/Project_1/src/images/4.png", "alt": "image2" },
-    { "src": "/Project_1/src/images/5.png", "alt": "image3" },
-    { "src": "/Project_1/src/images/1.png", "alt": "image4" },
-    { "src": "/Project_1/src/images/2.png", "alt": "image5" }
+    { "src": "/Project1/assets/Images/3.png", "alt": "image1" },
+    { "src": "/Project1/assets/Images/4.png", "alt": "image2" },
+    { "src": "/Project1/assets/Images/5.png", "alt": "image3" },
+    { "src": "/Project1/assets/Images/1.png", "alt": "image4" },
+    { "src": "/Project1/assets/Images/2.png", "alt": "image5" }
   ]
 }

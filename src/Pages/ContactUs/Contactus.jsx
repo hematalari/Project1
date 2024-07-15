@@ -2,7 +2,7 @@ import React from "react";
 import Nav from "../../Components/Navbar/Nav";
 import Footer from "../../Components/Footer/Footer";
 import "./Contactus.css";
-import image from '../../images/12.png';
+import image from '/assets/Images/12.png';
 
 const ContactUs = () => {
   return (
